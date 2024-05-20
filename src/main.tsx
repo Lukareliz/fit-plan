@@ -9,6 +9,10 @@ const router = createBrowserRouter([
   {
     path:"/",
     element: <Workouts />
+  },
+  {
+    path:"/exercises",
+    element: <Workouts /> //teste
   }
 ])
 

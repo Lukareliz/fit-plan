@@ -3,16 +3,11 @@ import Navigation from "../../components/Navigation/Index"
 
 const Workouts = () => {
   return (
-    <>
+    <main className="bg-gray h-80">
       <Header />
-      <main className="bg-gray h-80">
-        <Navigation />
-        <h4 className="text-white text-center text-lg font-light pt-6">Seus dias de treino.</h4>
-        <section className="">
-
-        </section>
-      </main>
-    </>
+      <Navigation />
+      <h4 className="text-white text-center text-lg font-light pt-6">Seus dias de treino.</h4>
+    </main>
   )
 }
 
