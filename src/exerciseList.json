@@ -1,0 +1,247 @@
+[
+    {
+        "nome": "Supino Reto",
+        "grupo_muscular": "Peitoral",
+        "equipamento": "Halteres/Barra"
+      },
+      {
+        "nome": "Agachamento Livre",
+        "grupo_muscular": "Pernas",
+        "equipamento": "Barra"
+      },
+      {
+        "nome": "Desenvolvimento de Ombros",
+        "grupo_muscular": "Ombros",
+        "equipamento": "Halteres/Barra"
+      },
+      {
+        "nome": "Levantamento Terra",
+        "grupo_muscular": "Costas",
+        "equipamento": "Barra"
+      },
+      {
+        "nome": "Cadeira Extensora",
+        "grupo_muscular": "Pernas",
+        "equipamento": "Máquina"
+      },
+      {
+        "nome": "Cadeira Flexora",
+        "grupo_muscular": "Pernas",
+        "equipamento": "Máquina"
+      },
+      {
+        "nome": "Rosca Direta",
+        "grupo_muscular": "Bíceps",
+        "equipamento": "Halteres/Barra"
+      },
+      {
+        "nome": "Tríceps Corda",
+        "grupo_muscular": "Tríceps",
+        "equipamento": "Cabo"
+      },
+      {
+        "nome": "Remada Curvada",
+        "grupo_muscular": "Costas",
+        "equipamento": "Barra"
+      },
+      {
+        "nome": "Remada Baixa",
+        "grupo_muscular": "Costas",
+        "equipamento": "Máquina"
+      },
+      {
+        "nome": "Leg Press",
+        "grupo_muscular": "Pernas",
+        "equipamento": "Máquina"
+      },
+      {
+        "nome": "Panturrilha em Pé",
+        "grupo_muscular": "Panturrilhas",
+        "equipamento": "Máquina"
+      },
+      {
+        "nome": "Supino Inclinado",
+        "grupo_muscular": "Peitoral",
+        "equipamento": "Halteres/Barra"
+      },
+      {
+        "nome": "Supino Declinado",
+        "grupo_muscular": "Peitoral",
+        "equipamento": "Halteres/Barra"
+      },
+      {
+        "nome": "Crucifixo Reto",
+        "grupo_muscular": "Peitoral",
+        "equipamento": "Halteres"
+      },
+      {
+        "nome": "Crucifixo Inclinado",
+        "grupo_muscular": "Peitoral",
+        "equipamento": "Halteres"
+      },
+      {
+        "nome": "Desenvolvimento Arnold",
+        "grupo_muscular": "Ombros",
+        "equipamento": "Halteres"
+      },
+      {
+        "nome": "Elevação Lateral",
+        "grupo_muscular": "Ombros",
+        "equipamento": "Halteres"
+      },
+      {
+        "nome": "Elevação Frontal",
+        "grupo_muscular": "Ombros",
+        "equipamento": "Halteres"
+      },
+      {
+        "nome": "Rosca Concentrada",
+        "grupo_muscular": "Bíceps",
+        "equipamento": "Halteres"
+      },
+      {
+        "nome": "Rosca Scott",
+        "grupo_muscular": "Bíceps",
+        "equipamento": "Máquina"
+      },
+      {
+        "nome": "Pulldown",
+        "grupo_muscular": "Costas",
+        "equipamento": "Máquina"
+      },
+      {
+        "nome": "Voador Inverso",
+        "grupo_muscular": "Costas",
+        "equipamento": "Máquina"
+      },
+      {
+        "nome": "Puxada Frontal",
+        "grupo_muscular": "Costas",
+        "equipamento": "Máquina"
+      },
+      {
+        "nome": "Tríceps Francês",
+        "grupo_muscular": "Tríceps",
+        "equipamento": "Halteres/Barra"
+      },
+      {
+        "nome": "Tríceps Testa",
+        "grupo_muscular": "Tríceps",
+        "equipamento": "Barra"
+      },
+      {
+        "nome": "Flexão de Braço",
+        "grupo_muscular": "Peitoral",
+        "equipamento": "Peso Corporal"
+      },
+      {
+        "nome": "Pull-up",
+        "grupo_muscular": "Costas",
+        "equipamento": "Peso Corporal"
+      },
+      {
+        "nome": "Chin-up",
+        "grupo_muscular": "Costas",
+        "equipamento": "Peso Corporal"
+      },
+      {
+        "nome": "Ponte",
+        "grupo_muscular": "Glúteos",
+        "equipamento": "Peso Corporal"
+      },
+      {
+        "nome": "Prancha",
+        "grupo_muscular": "Core",
+        "equipamento": "Peso Corporal"
+      },
+      {
+        "nome": "Abdominal Remador",
+        "grupo_muscular": "Abdômen",
+        "equipamento": "Peso Corporal"
+      },
+      {
+        "nome": "Abdominal Infra",
+        "grupo_muscular": "Abdômen",
+        "equipamento": "Peso Corporal"
+      },
+      {
+        "nome": "Abdominal Supra",
+        "grupo_muscular": "Abdômen",
+        "equipamento": "Peso Corporal"
+      },
+      {
+        "nome": "Abdominal Oblíquo",
+        "grupo_muscular": "Abdômen",
+        "equipamento": "Peso Corporal"
+      },
+      {
+        "nome": "Stiff",
+        "grupo_muscular": "Pernas",
+        "equipamento": "Barra"
+      },
+      {
+        "nome": "Rosca Martelo",
+        "grupo_muscular": "Bíceps",
+        "equipamento": "Halteres"
+      },
+      {
+        "nome": "Mergulho no Banco",
+        "grupo_muscular": "Tríceps",
+        "equipamento": "Banco"
+      },
+      {
+        "nome": "Afundo",
+        "grupo_muscular": "Pernas",
+        "equipamento": "Peso Corporal"
+      },
+      {
+        "nome": "Leg Press 45",
+        "grupo_muscular": "Pernas",
+        "equipamento": "Máquina"
+      },
+      {
+        "nome": "Glúteo 4 Apoios",
+        "grupo_muscular": "Glúteos",
+        "equipamento": "Peso Corporal"
+      },
+      {
+        "nome": "Stiff com Halteres",
+        "grupo_muscular": "Pernas",
+        "equipamento": "Halteres"
+      },
+      {
+        "nome": "Elevação Pélvica",
+        "grupo_muscular": "Glúteos",
+        "equipamento": "Peso Corporal"
+      },
+      {
+        "nome": "Abdução de Quadril",
+        "grupo_muscular": "Glúteos",
+        "equipamento": "Máquina"
+      },
+      {
+        "nome": "Addução de Quadril",
+        "grupo_muscular": "Pernas",
+        "equipamento": "Máquina"
+      },
+      {
+        "nome": "Elevação de Panturrilha Sentado",
+        "grupo_muscular": "Panturrilhas",
+        "equipamento": "Máquina"
+      },
+      {
+        "nome": "Crucifixo Inverso",
+        "grupo_muscular": "Costas",
+        "equipamento": "Máquina"
+      },
+      {
+        "nome": "Elevação de Pernas",
+        "grupo_muscular": "Abdômen",
+        "equipamento": "Peso Corporal"
+      },
+      {
+        "nome": "Russian Twist",
+        "grupo_muscular": "Abdômen",
+        "equipamento": "Peso Corporal"
+      }
+]
