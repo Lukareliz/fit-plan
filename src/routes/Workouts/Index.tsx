@@ -8,7 +8,7 @@ const Workouts = () => {
       <Header />
       <Navigation />
       <h4 className="text-white text-center text-lg font-light pt-6">Seus dias de treino.</h4>
-      <section className="mt-6 flex flex-col">
+      <section className="mt-6 flex flex-col gap-4">
         <Dropdown day="Segunda-feira" />
         <Dropdown day="Terça-feira" />
       </section>
